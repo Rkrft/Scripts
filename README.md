@@ -1,5 +1,5 @@
 # Scripts
-Miscellaneous bash scripts
+**Miscellaneous bash scripts**
 
 
 
