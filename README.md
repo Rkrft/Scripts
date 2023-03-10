@@ -1,6 +1,6 @@
 # Scripts
-<span>**Miscellaneous bash scripts**</span>
-<span style="color: red;">text</span>
+**Miscellaneous bash scripts**
+
 
 
 
